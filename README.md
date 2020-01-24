@@ -13,6 +13,13 @@ This allows a user to quickly jump to the associated GitHub, GitLab, Bitbucket o
 ![Screenshot](https://raw.githubusercontent.com/paginagmbh/redmine_remote_revision_url/master/docs/screenshot_revisions.png)
 
 
+## Compatibility
+
+**This branch supports Redmine 3.4 only!**
+
+A Redmine 4.x compatible version can be found on the [master](https://github.com/paginagmbh/redmine_remote_revision_url/tree/master) branch.
+
+
 ## Installation
 
 ```
