@@ -24,7 +24,7 @@ A Redmine 4.x compatible version can be found on the [master](https://github.com
 
 ```
 $ cd redmine/plugins
-$ git clone https://github.com/tleish/redmine_remote_revision_url
+$ git clone https://github.com/paginagmbh/redmine_remote_revision_url
 ```
 Then run the following command for database migration
 ```
