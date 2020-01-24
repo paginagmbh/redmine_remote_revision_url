@@ -45,4 +45,4 @@ Globally configure remote revision url links to replace exising link or to open 
 
 ## License
 
-_redmine_revision_branches_ plugin is developed under the [MIT License](https://github.com/paginagmbh/redmine_revision_branches/blob/master/LICENSE).
+_redmine_remote_revision_url_ plugin is developed under the [MIT License](https://github.com/paginagmbh/redmine_remote_revision_url/blob/master/LICENSE).
