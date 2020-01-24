@@ -17,7 +17,7 @@ This allows a user to quickly jump to the associated GitHub, GitLab, Bitbucket o
 
 ```
 $ cd redmine/plugins
-$ git clone https://github.com/tleish/redmine_remote_revision_url
+$ git clone https://github.com/paginagmbh/redmine_remote_revision_url
 ```
 Then run the following command for database migration
 ```
