@@ -11,6 +11,7 @@ Redmine::Plugin.register :redmine_remote_revision_url do
   author 'Thomas Leishman, Tobias Fischer'
   description 'The Redmine Remote Revision URL plugin adds a revision link to a remote website to see more details on a commit/revision.'
   version '0.4.0'
+  requires_redmine :version_or_higher => '4.0'
   url 'https://github.com/paginagmbh/redmine_remote_revision_url'
   settings :default => {
     display_under_single_revision: true,
